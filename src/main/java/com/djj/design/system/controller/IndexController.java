@@ -16,4 +16,6 @@ public class IndexController {
         throw new SysException(SysExceptionEnum.ACCOUNT_FREEZED);
 //        return "hello";
     }
+
+
 }
